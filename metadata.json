@@ -1,0 +1,6 @@
+{
+  "name": "CinePro Studio - AI Video Editor 70s",
+  "description": "Phần mềm dựng video chuyên nghiệp, tự động chọn lọc 1000 video ngắn dựa trên lời thoại, cắt cảnh hay nhất ghép thành video 1 phút 10 giây, tăng tốc, chỉnh âm lượng, zoom khung hình và render GPU đa định dạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
